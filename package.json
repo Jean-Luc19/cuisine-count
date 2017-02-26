@@ -1,0 +1,26 @@
+{
+  "name": "cuisine-count",
+  "version": "1.0.0",
+  "description": "New York Cuisine Visualization",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jean-Luc19/cuisine-count.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.2",
+    "morgan": "^1.7.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Jean-Luc19/cuisine-count/issues"
+  },
+  "homepage": "https://github.com/Jean-Luc19/cuisine-count#readme"
+}
